@@ -1,9 +1,6 @@
-versão 1.0 github - Login Landpage
+versão 1.0 github - Login form
 
-Site realizado com HTML5, CSS3 e uma linha de Javascript, 
-sendo os dois últimos arquivos externos ao index.html para 
-padronização e reuso desses arquivos em demais projetos atuais
-e futuros.
-O objetivo desse projeto é, sem muita valsa, testar meus próprios 
-conhecimentos acerca das linguagens de desenvolvimento citadas acima
-e, também, praticar a minha criatividade e pensamento para a programação.
+
+Esse pequeno projeto é apenas um template de formulário de login que ainda não tive a oportunidade de usá-lo, mas estou deixando-o por aqui no caso de alguém gostar e usar no seu projeto.
+
+Site realizado com HTML5, CSS3 e uma linha de Javascript.
